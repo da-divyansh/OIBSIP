@@ -41,4 +41,4 @@ This repository contains the projects and tasks completed during the Web Develop
 
 - **Name:** Divyansh Maddheshiya
 - **LinkedIn:** [Divyansh](https://www.linkedin.com/in/da-divyansh/)
-- **GitHub:** [Your GitHub Profile](https://github.com/da-divyansh)
+- **GitHub:** [GitHub Profile](https://github.com/da-divyansh)
