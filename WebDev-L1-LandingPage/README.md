@@ -36,7 +36,7 @@ WebDev-L1-LandingPage/
 
 ## Author
 
-Shashank Mall
+Divyansh Maddheshiya
 
 ## Internship
 
