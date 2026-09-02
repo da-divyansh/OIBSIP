@@ -2,10 +2,6 @@
 
 Oasis Infobyte Web Development Internship Tasks
 
-# OIBSIP
-
-Oasis Infobyte Web Development Internship Tasks
-
 ## Overview
 
 This repository contains the projects and tasks completed during the Web Development and Designing Internship at **Oasis Infobyte** (OIBSIP).
